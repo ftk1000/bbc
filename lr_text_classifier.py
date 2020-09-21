@@ -12,6 +12,7 @@ import numpy as np
 import os
 os.getcwd()
 wd = '/Users/paulpaul/bbc/'
+wd = '/Users/khafifa/PYCODE/bbc/'
 
 import pandas as pd
 from nltk.tokenize import word_tokenize
