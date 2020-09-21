@@ -2,6 +2,16 @@
 
 https://www.kaggle.com/pariza/bbc-news-summary
 
+make_bbc_summ_df.py
+
+lr_text_classifier.py
+
+text_classifier.py
+
+    models: LR/NB, 
+    text: Article/summary
+    Vectorizer: count / tfidf
+    ngram
 
 or create a new repository on the command line
 
